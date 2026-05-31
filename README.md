@@ -48,10 +48,4 @@ dependency-light so anyone can run it.
   <img src="https://img.shields.io/badge/Vite-646cff?logo=vite&logoColor=fff">
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=za3ter123&layout=compact&hide_border=true&theme=tokyonight&langs_count=8">
-</p>
-
 <p align="center"><i>Building in the open. Issues and PRs welcome on any repo above.</i></p>
